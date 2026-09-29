@@ -31,7 +31,8 @@ Only one computer on a team needs it. The manual's chapter 8 explains setting it
 | Where | Download |
 | --- | --- |
 | A Windows PC | `rann-team-server-<version>-windows-x64.zip` (self-contained: nothing else to install) |
-| A Linux PC or server | Already in the Linux package above: `rann-team-server` (at `/opt/rann-ultra-searcher/Rann.Server`) |
+| A Linux PC | Already in the Linux package above: `rann-team-server` (at `/opt/rann-ultra-searcher/Rann.Server`) |
+| A Linux server without a desktop (x64) | `rann-team-server-<version>-linux-x64.tar.gz` (self-contained; extract to `/opt/rann-team-server`) |
 | A NAS or server with Docker (x64) | `rann-team-server-<version>-docker.zip`: the server ready-built, with a `Dockerfile` and a `docker-compose.yml` that run it with PostgreSQL and pgvector |
 
 ## En français
