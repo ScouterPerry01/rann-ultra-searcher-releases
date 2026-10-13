@@ -2,10 +2,10 @@
 
 Downloads of **RANN Ultra Searcher** by RANN APPS: search live folders and the catalog of every drive you have
 scanned, even unplugged ones, by name, content, metadata, similar images, faces and objects. On Windows, get the app
-from the Microsoft Store; this page has the Linux packages and the **Team server**, which lets a family or a small team
+from the Microsoft Store (https://apps.microsoft.com/detail/9PFCCRD9DSQ0); this page has the Linux packages and the **Team server**, which lets a family or a small team
 search each other's scans.
 
-> **Latest: version 1.0.0** (29 September 2026). Download the files from
+> **Latest: version 1.0.1** (13 October 2026). Download the files from
 > https://github.com/ScouterPerry01/rann-ultra-searcher-releases/releases/latest
 
 Product page and user manual: https://www.rann.ca/rann-apps/rann-ultra-searcher
@@ -39,7 +39,8 @@ Only one computer on a team needs it. The manual's chapter 8 explains setting it
 ## En français
 
 Téléchargements de RANN Ultra Searcher : les paquets Linux de l'application et le serveur d'équipe pour Windows,
-Linux et Docker. Sous Windows, l'application s'obtient dans le Microsoft Store. Le guide d'utilisation, en français,
+Linux et Docker. Sous Windows, l'application s'obtient dans le Microsoft Store
+(https://apps.microsoft.com/detail/9PFCCRD9DSQ0). Le guide d'utilisation, en français,
 est à https://www.rann.ca/rann-apps/rann-ultra-searcher.
 
 ## Contact
