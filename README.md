@@ -5,7 +5,7 @@ scanned, even unplugged ones, by name, content, metadata, similar images, faces 
 from the Microsoft Store (https://apps.microsoft.com/detail/9PFCCRD9DSQ0); this page has the Linux packages and the **Team server**, which lets a family or a small team
 search each other's scans.
 
-> **Latest: version 1.0.1** (13 October 2026). Download the files from
+> **Latest: version 1.1.0** (23 October 2026). Download the files from
 > https://github.com/ScouterPerry01/rann-ultra-searcher-releases/releases/latest
 
 Product page and user manual: https://www.rann.ca/rann-apps/rann-ultra-searcher
